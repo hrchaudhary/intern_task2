@@ -1,2 +1,2 @@
 # intern_task2
-todolist task we can develope web app using HTML,CSS,JS
+todolist web app developed using HTML,CSS,JS
